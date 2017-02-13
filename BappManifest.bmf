@@ -1,6 +1,7 @@
 Uuid: 371cebe47d8d4049a92dc03b66e1105f
 ExtensionType: 1
 Name: Burp CSJ
+RepoName: burp-csj
 ScreenVersion: 1.2
 SerialVersion: 4
 MinPlatformVersion: 0
